@@ -1,0 +1,13 @@
+{
+  "__INSTRUCOES__": "Substitua este arquivo pelo google-services.json real do seu projeto Firebase.",
+  "__PASSOS__": [
+    "1. Acesse https://console.firebase.google.com",
+    "2. Crie ou abra seu projeto Firebase",
+    "3. Adicione um app Android com package name: br.com.inovagab",
+    "4. Baixe o google-services.json gerado",
+    "5. Substitua este arquivo pelo downloaded",
+    "6. No Firebase Console, habilite Authentication (Email/Password)",
+    "7. Habilite Firestore Database",
+    "8. Configure as regras do Firestore (veja README)"
+  ]
+}
